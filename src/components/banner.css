@@ -1,7 +1,10 @@
 .banner {
   height: 300px;
   width: 100%;
+  
   position: relative;
+
+
 }
 .banner img {
   position: absolute;
